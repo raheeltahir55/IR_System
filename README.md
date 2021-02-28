@@ -1,1 +1,1 @@
-# IR_System
+Information Retrieval Project
